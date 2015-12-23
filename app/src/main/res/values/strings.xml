@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+    <string name="firstApp">spotify streamer</string>
+    <string name="secondApp">scores app</string>
+    <string name="thirdApp">library app</string>
+    <string name="fourthApp">build it bigger</string>
+    <string name="fifthApp">xyz reader</string>
+    <string name="sixthApp">capstone: my own app</string>
+    <string name="firstAppToast">This button will launch my Spotify App!</string>
+    <string name="secondAppToast">This button will launch my Scores App!</string>
+    <string name="thirdAppToast">This button will launch my Library App!</string>
+    <string name="fourthAppToast">This button will launch my Build It Bigger App!</string>
+    <string name="fifthAppToast">This button will launch my XYZ Reader App!</string>
+    <string name="sixthAppToast">This button will launch my Capstone App!</string>
+</resources>
